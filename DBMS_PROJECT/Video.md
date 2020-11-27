@@ -1,1 +1,0 @@
-This Read Me file contains the Video link of Queries explained by my team members. 
