@@ -11,4 +11,4 @@
 * Tushar Yadav , 18bcs106 , https://github.com/18bcs106
 * Ankit Rajpoot , 18bcs007 , https://github.com/ankit2401
 * Sachin Verma ,18bcs085 , https://github.com/satur123
-* Prabhdeep Singh , 18bcs068
+* Prabhdeep Singh , 18bcs068 , https://github.com/Prabhdepsp
